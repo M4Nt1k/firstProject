@@ -1,0 +1,11 @@
+E:\Visual studio\проекты\Че-то\bin\Release\Че-то.exe.config
+E:\Visual studio\проекты\Че-то\bin\Release\Че-то.exe
+E:\Visual studio\проекты\Че-то\bin\Release\Че-то.pdb
+E:\Visual studio\проекты\Че-то\obj\Release\firstGameProject.csproj.AssemblyReference.cache
+E:\Visual studio\проекты\Че-то\obj\Release\firstGameProject.csproj.SuggestedBindingRedirects.cache
+E:\Visual studio\проекты\Че-то\obj\Release\Че_то.Form1.resources
+E:\Visual studio\проекты\Че-то\obj\Release\Че_то.Properties.Resources.resources
+E:\Visual studio\проекты\Че-то\obj\Release\firstGameProject.csproj.GenerateResource.cache
+E:\Visual studio\проекты\Че-то\obj\Release\firstGameProject.csproj.CoreCompileInputs.cache
+E:\Visual studio\проекты\Че-то\obj\Release\Че-то.exe
+E:\Visual studio\проекты\Че-то\obj\Release\Че-то.pdb

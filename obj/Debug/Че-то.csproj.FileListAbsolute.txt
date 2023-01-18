@@ -1,0 +1,11 @@
+E:\Visual studio\проекты\Че-то\bin\Debug\Че-то.exe.config
+E:\Visual studio\проекты\Че-то\bin\Debug\Че-то.exe
+E:\Visual studio\проекты\Че-то\bin\Debug\Че-то.pdb
+E:\Visual studio\проекты\Че-то\obj\Debug\Че-то.csproj.AssemblyReference.cache
+E:\Visual studio\проекты\Че-то\obj\Debug\Че-то.csproj.SuggestedBindingRedirects.cache
+E:\Visual studio\проекты\Че-то\obj\Debug\Че_то.Form1.resources
+E:\Visual studio\проекты\Че-то\obj\Debug\Че_то.Properties.Resources.resources
+E:\Visual studio\проекты\Че-то\obj\Debug\Че-то.csproj.GenerateResource.cache
+E:\Visual studio\проекты\Че-то\obj\Debug\Че-то.csproj.CoreCompileInputs.cache
+E:\Visual studio\проекты\Че-то\obj\Debug\Че-то.exe
+E:\Visual studio\проекты\Че-то\obj\Debug\Че-то.pdb
