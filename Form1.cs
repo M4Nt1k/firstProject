@@ -337,6 +337,7 @@ namespace Че_то
         }
         public void resistFromEnemy_Click(object sender, EventArgs e)
         {
+            queniCtrl();
             burningCtrl();
             Restart.Visible = true;
             winBanner.Text = "";
